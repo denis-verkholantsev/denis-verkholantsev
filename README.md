@@ -1,6 +1,10 @@
 ## Hi! I'm Denis!
 
-### Contact me
+## 📝 A little bit about me:
+
+My name is Denis Verkholantsev. I work as a software engineer. In my free time, I study the design and architecture of modern software, good coding practices, and much more.
+
+## Contact me
 <p>
   <a href="https://t.me/denisiam0" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/> </a>
 </p>
@@ -11,24 +15,26 @@ Bachelor's Degree in Applied Mathematics, Saint Petersburg State University (Pro
 ## :computer: Skills and Tools
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" width="100" />
-  <img src="https://img.shields.io/badge/C++-%23000000?logo=c%2B%2B" alt="Cpp" width="75" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" width="100" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Cpp" width="75" />
+  <img src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683" alt="Octave" width="100" />
 </p>
 
 ### Frameworks and Libraries
 <p>
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white" width=95 />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI", width=120 />
-  <img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white", width=120 />
-  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white", width=100 />
-  <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white", width=110 />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white", width=110 />
+  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" width=100 />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI", width=115 />
+  <img alt="Gunicorn" src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white", width=130 />
+  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white", width=105 />
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white", width=110 />
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black", width=110" />
+  <img alt="Poetry" src="https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D", width="110" />
+  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white", width=100 />
 </p>
 
 ### CI/CD
 <p>
-  <img src="https://img.shields.io/badge/-Docker-000000?logo=docker&logoColor=blue" alt="Docker" width="100" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="100" />
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" width="140" />
 </p>
 
@@ -45,10 +51,10 @@ Bachelor's Degree in Applied Mathematics, Saint Petersburg State University (Pro
 
 ### Databases
 <p>
-  <img src="https://img.shields.io/badge/-PostgreSQL-000000?logo=postgresql" alt="PostgreSQL" width="130" />
-  <img src="https://img.shields.io/badge/-MySQL-000000?logo=mysql" alt="MySQL" width="102" />
-  <img src="https://img.shields.io/badge/-MongoDB-000000?logo=mongodb" alt="MongoDB" width="120" />
-  <img src="https://img.shields.io/badge/-Redis-000000?logo=redis" alt="Redis" width="82" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" width="130" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" width="102" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="120" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" width="100" />
 </p>
 
 ### Other
